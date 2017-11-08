@@ -3,7 +3,7 @@ Y-Axis Panning
 
 Using this plugin will enable Y-Axis panning.
 
-Demo: http://www.highcharts.com/plugin-registry/single/27/Y-Axis%20Panning
+Demo: [jsfiddle](https://jsfiddle.net/RolandBanguiran/8EmeV/?utm_source=website&utm_medium=embed&utm_campaign=8EmeV)   [highcharts-blog](https://www.highcharts.com/blog/extension/y-axis-panning/)
 
 Donate
 ---
