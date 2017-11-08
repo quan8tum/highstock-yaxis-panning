@@ -14,6 +14,6 @@ Bitcoin to <code>15dv1MW6LrArfzrzq46mPscjce7vLUfaBR</code>
 ==========
 To turn off/on the function at realtime, just set:
 ``` javascript
-chart.yPanningDisabled = true; // turn off
-chart.yPanningDisabled = false; // turn on
+chart.option.chart.yPanningDisabled = true; // turn off
+chart.option.chart.yPanningDisabled = false; // turn on
 ```
