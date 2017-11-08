@@ -34,6 +34,7 @@
         if (panning && zoomType === '') {
 
             addEvent(container, 'mousedown', function (e) {
+                if(options.chart.yPanningClosed) return;
                 body.style.cursor = 'move';
 
                 downYPixels = chart.pointer.normalize(e).chartY;
